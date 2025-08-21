@@ -1,4 +1,4 @@
-# This Bash script is a simple text-based game inspired by Elden Ring, where players choose a character class and face battles with random outcomes
+## This Bash script is a simple text-based game inspired by Elden Ring, where players choose a character class and face battles with random outcomes
 
 This game was created as a Bash Script tutorial created by NetworkChuck
 
