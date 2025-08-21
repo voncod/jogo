@@ -1,4 +1,4 @@
-## Este é um jogo simples de texto criado com script Bash em Elden Ring, onde os jogadores escolhem uma classe de personagem e enfrentam batalhas com resultados aleatórios.
+## Este é um jogo simples de texto criado com Bash Script em Elden Ring, onde os jogadores escolhem uma classe de personagem e enfrentam batalhas com resultados aleatórios.
 
 Este jogo foi criado como um tutorial de script Bash criado por NetworkChuck.
 
